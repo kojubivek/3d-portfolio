@@ -87,7 +87,7 @@ const Who = () => {
             <Title>What Outside the Square Space</Title>
           </TitleContainer>
           <WhatWeDo>
-            <Line src="../public/img/line.png" />
+            <Line src="../img/line.png" />
             <Subtitle>Who Am I</Subtitle>
           </WhatWeDo>
           <Desc>A passionate Builder and Creator.</Desc>
